@@ -1,0 +1,11 @@
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\netcoreapp2.0\PrototypePatternDemo.deps.json
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\netcoreapp2.0\PrototypePatternDemo.runtimeconfig.json
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\netcoreapp2.0\PrototypePatternDemo.runtimeconfig.dev.json
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\netcoreapp2.0\PrototypePatternDemo.dll
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\netcoreapp2.0\PrototypePatternDemo.pdb
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.csprojResolveAssemblyReference.cache
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.csproj.CoreCompileInputs.cache
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.AssemblyInfoInputs.cache
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.AssemblyInfo.cs
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.dll
+D:\OpenSource\DesignPattern\CreationPattern\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\netcoreapp2.0\PrototypePatternDemo.pdb
