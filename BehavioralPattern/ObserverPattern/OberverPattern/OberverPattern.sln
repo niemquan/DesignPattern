@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OberverPattern", "OberverPattern\OberverPattern.csproj", "{AA6E8AEE-20BF-4EEB-8DFB-8C4C54332671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventOberverPattern", "EventOberverPattern\EventOberverPattern.csproj", "{5320B874-14D9-40FA-B3ED-2B535BADD1E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{AA6E8AEE-20BF-4EEB-8DFB-8C4C54332671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6E8AEE-20BF-4EEB-8DFB-8C4C54332671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA6E8AEE-20BF-4EEB-8DFB-8C4C54332671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5320B874-14D9-40FA-B3ED-2B535BADD1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5320B874-14D9-40FA-B3ED-2B535BADD1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5320B874-14D9-40FA-B3ED-2B535BADD1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5320B874-14D9-40FA-B3ED-2B535BADD1E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

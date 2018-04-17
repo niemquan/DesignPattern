@@ -1,12 +1,19 @@
-﻿<Properties StartupConfiguration="{AA6E8AEE-20BF-4EEB-8DFB-8C4C54332671}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OberverPattern/Program.cs">
+﻿<Properties StartupConfiguration="{5320B874-14D9-40FA-B3ED-2B535BADD1E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.EventOberverPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventOberverPattern/ISubscriber.cs">
     <Files>
-      <File FileName="OberverPattern/Program.cs" Line="19" Column="34" />
+      <File FileName="OberverPattern/Program.cs" Line="21" Column="31" />
       <File FileName="OberverPattern/Observer.cs" Line="4" Column="27" />
       <File FileName="OberverPattern/Subject.cs" Line="21" Column="10" />
       <File FileName="OberverPattern/BinaryObserver.cs" Line="15" Column="10" />
       <File FileName="OberverPattern/OctalObserver.cs" Line="16" Column="6" />
       <File FileName="OberverPattern/HexaObserver.cs" Line="18" Column="1" />
+      <File FileName="EventOberverPattern/Program.cs" Line="16" Column="31" />
+      <File FileName="EventOberverPattern/CustomEventArgs.cs" Line="20" Column="1" />
+      <File FileName="EventOberverPattern/Publisher.cs" Line="23" Column="6" />
+      <File FileName="EventOberverPattern/Subscriber.cs" Line="8" Column="27" />
+      <File FileName="EventOberverPattern/Subscriber2.cs" Line="12" Column="9" />
+      <File FileName="EventOberverPattern/ISubscriber.cs" Line="6" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
